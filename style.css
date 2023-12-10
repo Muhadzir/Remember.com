@@ -1,0 +1,232 @@
+body{
+  height: 100vh;
+  width: 100%;
+}
+.navbar{
+  stroke: #000000;
+}
+
+.nav-link.active.active{
+  font-weight: 700;
+}
+.nav-link{
+  font-weight: 300;
+  font-size: large;
+}
+
+.hero-tagline h1{
+  text-align: left;
+  font: 700 40px/21px "Poppins-Regular", sans-serif;
+  position: relative;
+  width: 264px;
+  height: 65px;
+}
+.hero-tagline p {
+  text-align: left;
+  font: 700 30px/20px "Poppins-Bold", sans-serif;
+  position: relative;
+  width: 616px;
+  height: 111px;
+  margin-top: 50px;
+}
+.hero-tagline h3{
+  text-align: left;
+  font: 300 22px/21px "Poppins-Light", sans-serif;
+  position: relative;
+}
+.grid{
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.container{
+  margin-top: 30px;
+}
+.ellipse-15 {
+  background: #eeb903;
+  border-radius: 50%;
+  width: 332px;
+  height: 319px;
+  position: relative;
+}
+.image-3 {
+  margin-top: 30px;
+  margin-left: 150px;
+  border-radius: 35px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 209px;
+  height: 439px;
+  position: relative;
+}
+
+
+
+
+.contact-in-remember,
+.contact-in-remember * {
+  box-sizing: border-box;
+}
+.contact-in-remember {
+  text-align: left;
+  font: 700 54px "Montserrat-Bold", sans-serif;
+  position: relative;
+}
+.contact-in-remember-span {
+  color: var(--black, #000000);
+  font: 700 54px "Montserrat-Bold", sans-serif;
+}
+.contact-in-remember-span2 {
+  color: #eeb903;
+  font: 700 54px "Montserrat-Bold", sans-serif;
+}
+.hello-my-friend-if-you-have-a-question-fill-in-the-form-column-provided,
+.hello-my-friend-if-you-have-a-question-fill-in-the-form-column-provided * {
+  box-sizing: border-box;
+}
+.hello-my-friend-if-you-have-a-question-fill-in-the-form-column-provided {
+  text-align: left;
+  font: 600 18px/24px "Montserrat-SemiBold", sans-serif;
+  position: relative;
+  width: 545px;
+}
+.form-control{
+  margin-top: 15px;
+  position: relative;
+  width: 550px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  
+}
+.nav-link2 {
+background: #eeb903;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 550px;
+  height: 50px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  color: var(--white, #ffffff);
+  text-align: left;
+  font: 700 16px "Montserrat-Bold", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  margin-top: 15px; ;
+  text-decoration: none;
+}
+.hero{
+  margin-top: 10px;
+}
+.grid2{
+  margin-top: 50px;
+  margin-left: 28px;
+}
+.grid3{
+  margin-top: 10px;
+}
+
+.hero-tagline2 p{
+  text-align: left;
+  margin-left: 270px;
+}
+.hero-tagline2 h3{
+  text-align: left;
+  margin-left: 270px;
+  margin-top: 20px;
+}
+.nav-link3{
+  background: #eeb903;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 174px;
+  height: 40px;
+  border-radius: 50px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  color: var(--white, #ffffff);
+  text-align: left;
+  font: 700 16px "Montserrat-Bold", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+  text-decoration: none;
+}
+
+.hero-tagline5 p{
+  text-align: left;
+  margin: 10px;
+  font-size: large;
+}
+.hero-tagline5 h3{
+  text-align: left;
+  margin: 10px;
+  font-size: xx-large;
+}
+.grid5{
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.google{
+  margin-left: 135px;
+  margin-top: 150px;
+}
+.dropdown{
+  margin-left: 20px;
+  box-shadow: 10px;
+  border-radius: 50px;
+
+
+}
+.frame-11950,
+.frame-11950 * {
+  box-sizing: border-box;
+}
+.frame-11950 {
+  width: 142px;
+  height: 20px;
+  position: relative;
+}
+.remember {
+  text-align: left;
+  font: 900 24px "Inter-Black", sans-serif;
+  position: relative;
+  left: 30px;
+  top: 0px;
+  width: 134px;
+  height: 20px;
+}
+
+
+.carousel-item{
+
+  position: relative;
+  
+}
+
+.d-block{
+  width: 230px;
+  margin-left: 14px;
+  background-color: #000000;
+  border-radius: 20px;
+}
+.carousel-caption{
+  color: #000000;
+}
+.col-sm-5{
+margin-left: 20px;
+  font-size: larger;
+}
+.work{
+  text-align: left;
+  font: 600 18px/24px "Montserrat-SemiBold", sans-serif;
+  position: relative;
+  width: 545px; 
+}
