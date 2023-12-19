@@ -1,0 +1,459 @@
+.gplay,
+.gplay * {
+  box-sizing: border-box;
+}
+.gplay {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-30 {
+  background: #ffffff;
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-4254 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 49px;
+  height: 29px;
+  position: absolute;
+  left: 500px;
+  top: 548px;
+}
+.clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 69px;
+  top: 69.69px;
+  overflow: visible;
+}
+.clip-path-group3 {
+  height: auto;
+  position: absolute;
+  left: 93.67px;
+  top: 87px;
+  overflow: visible;
+}
+.clip-path-group5 {
+  height: auto;
+  position: absolute;
+  left: 69.91px;
+  top: 96px;
+  overflow: visible;
+}
+.clip-path-group7 {
+  height: auto;
+  position: absolute;
+  left: 69.91px;
+  top: 69px;
+  overflow: visible;
+}
+.vector13 {
+  height: auto;
+  position: absolute;
+  right: 92.92%;
+  left: 4.86%;
+  width: 2.22%;
+  bottom: 87.99%;
+  top: 10.25%;
+  height: 1.76%;
+  overflow: visible;
+}
+.clip-path-group9 {
+  height: auto;
+  position: absolute;
+  left: 69px;
+  top: 96px;
+  overflow: visible;
+}
+.clip-path-group10 {
+  height: auto;
+  position: absolute;
+  left: 69px;
+  top: 69px;
+  overflow: visible;
+}
+.clip-path-group11 {
+  height: auto;
+  position: absolute;
+  left: 124.71px;
+  top: 76.32px;
+  overflow: visible;
+}
+.game {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 393px;
+  top: 75px;
+  width: 102px;
+  height: 42px;
+}
+.buku {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 657px;
+  top: 74px;
+  width: 102px;
+  height: 42px;
+}
+.rectangle-4253 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #238763;
+  border-width: 0px 0px 3px 0px;
+  width: 124px;
+  height: 55px;
+  position: absolute;
+  left: 514px;
+  top: 76px;
+}
+.film {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 771px;
+  top: 73px;
+  width: 102px;
+  height: 42px;
+}
+.anak-anak {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 861px;
+  top: 72px;
+  width: 162px;
+  height: 42px;
+}
+.aplikasi {
+  color: #238763;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 517px;
+  top: 75px;
+  width: 121px;
+  height: 34px;
+}
+.infinite-platforms-inc {
+  color: #238763;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 74px;
+  top: 335px;
+  width: 314px;
+  height: 36px;
+}
+.berisi-iklan {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 74px;
+  top: 371px;
+  width: 128px;
+  height: 36px;
+}
+._120-jt-ulasan {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 79px;
+  top: 585px;
+  width: 151px;
+  height: 36px;
+}
+.aplikasi-ini-tersedia-untuk-perangkat-anda {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 115px;
+  top: 795px;
+  width: 490px;
+  height: 36px;
+}
+.anda-dapat-membagikan-ini-kepada-keluarga-anda-pelajari-lebih-lanjut-koleksi-keluarga {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 113px;
+  top: 831px;
+  width: 1011px;
+  height: 36px;
+}
+.anda-dapat-membagikan-ini-kepada-keluarga-anda-pelajari-lebih-lanjut-koleksi-keluarga-span {
+  color: #808080;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+}
+.anda-dapat-membagikan-ini-kepada-keluarga-anda-pelajari-lebih-lanjut-koleksi-keluarga-span2 {
+  color: #808080;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  text-decoration: underline;
+}
+._4-9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 115px;
+  top: 545px;
+  width: 40px;
+  height: 36px;
+}
+._5-m {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 321px;
+  top: 545px;
+  width: 62px;
+  height: 36px;
+}
+._12 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 497px;
+  top: 548px;
+  width: 55px;
+  height: 23px;
+}
+.hasil-download {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 263px;
+  top: 585px;
+  width: 178px;
+  height: 36px;
+}
+.rating-12 {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 473px;
+  top: 585px;
+  width: 151px;
+  height: 36px;
+}
+.pembelian-dlm-aplikasi {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 217px;
+  top: 371px;
+  width: 270px;
+  height: 36px;
+}
+.search {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1172px;
+  top: 66px;
+  overflow: visible;
+}
+.question {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1235px;
+  top: 59px;
+  overflow: visible;
+}
+.group-8750 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-230 {
+  background: #f84d04;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1308px;
+  top: 61px;
+}
+.m {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  position: absolute;
+  left: 1321px;
+  top: 68px;
+  width: 24px;
+  height: 27px;
+}
+.remember {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  position: absolute;
+  left: 69px;
+  top: 255px;
+  width: 296px;
+  height: 60px;
+}
+.div {
+  color: #808080;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 202px;
+  top: 349px;
+  width: 9px;
+  height: 56px;
+}
+.group-8739 {
+  position: absolute;
+  inset: 0;
+}
+.logo {
+  width: 371px;
+  height: 330px;
+  position: absolute;
+  left: 870px;
+  top: 255px;
+}
+.logo2 {
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.remember2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 942px;
+  top: 554px;
+  width: 222px;
+  height: 54px;
+}
+.icon-star-fill {
+  height: auto;
+  position: absolute;
+  right: 87.22%;
+  left: 11.18%;
+  width: 1.6%;
+  bottom: 44.53%;
+  top: 53.32%;
+  height: 2.15%;
+  overflow: visible;
+}
+.rectangle-4255 {
+  background: #238763;
+  border-radius: 30px;
+  width: 418px;
+  height: 66px;
+  position: absolute;
+  left: 79px;
+  top: 695px;
+}
+.instal-pada-perangkat-lain {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 111px;
+  top: 711px;
+  width: 354px;
+  height: 34px;
+}
+.user-interface-share {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 521px;
+  top: 700px;
+  overflow: visible;
+}
+.user-interface-house {
+  width: 26px;
+  height: 25px;
+  position: absolute;
+  left: 85px;
+  top: 831px;
+  overflow: visible;
+}
+.device-monitor {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 85px;
+  top: 795px;
+  overflow: visible;
+}
